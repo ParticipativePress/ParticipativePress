@@ -1,0 +1,156 @@
+.flex-container {
+    display: flex;
+    align-items: stretch; 
+    flex-direction: row;
+    
+
+}
+
+.flex-container > div {
+  /*  text-align: left; */
+}
+
+body {
+
+   /* font-size: 15px; */
+        font-family: "Helvetica Neue", "Arial", 'Roboto', sans-serif;
+    font-size: 130%;
+    background-color: white;
+    margin: 0%;
+    /* #f28071 */
+/* text-align: center; */
+
+
+}
+
+
+
+.marginLeft {
+    margin-left: 5%;
+}
+
+
+ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+}
+
+p, h1, h2, h3, h4 {
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 20%;
+}
+
+.blogimage {
+    height: 65px;
+    width: 65px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+
+.trblue:hover { background: lightblue; }
+
+.trgreen:hover {background: rgb(209, 228, 209)}
+
+.tryellow:hover {background: lightyellow}
+
+
+
+tr a {
+ padding: 40px; 
+
+}
+
+#nav {
+   /* flex-grow: 1; */
+    width: 250px;
+    height: 100%;
+    position: fixed; 
+    z-index: 1;
+    top: 0;
+    left: 0;
+    overflow-x: hidden;
+   /* padding-top: 20px; */
+   /* background-color: white; */
+    border-right: 3px solid black;
+}
+
+
+table {
+    /*   border: 1px solid; */
+        border-collapse: collapse;
+        width: 100%;
+    }
+    
+th, td {
+        padding: 8px;
+        text-align: left;
+        border-bottom: 3px solid black;
+    }
+
+
+
+#content {
+   /* flex-grow: 8; */
+   width: 90%;
+   margin-left: 250px;
+}
+
+
+.breakBottom {
+
+    border-bottom: 3px solid black;
+}
+
+#homeimage {
+    height: 20%;
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+    
+}
+
+.byline {
+    font-family: 'Source Sans Pro', sans-serif;
+    border-top: 3px solid black;
+    width: 100%;
+    font-size: 0.8em;
+    font-weight: 600;
+    color: black;
+}
+
+
+@media screen and (max-width: 800px) {
+    a {
+        font-size: 150%;
+        
+    }
+
+    .flex-container {
+        flex-direction: column !important;
+    }
+
+    #nav {
+        /* flex-grow: 1; */
+         width: auto;
+         position: relative !important;
+         border-right: none !important;
+     }
+     
+     #content {
+        /* flex-grow: 8; */
+        width: auto;
+        margin-left: 0 !important;
+         margin-right: 0 !important;
+
+     }
+
+
+    
+}
