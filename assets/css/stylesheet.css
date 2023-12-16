@@ -6,6 +6,14 @@
 
 }
 
+iframe {
+    display: block;
+    border-style:none;
+    margin-left: 5%;
+}
+
+
+
 .flex-container > div {
   /*  text-align: left; */
 }
@@ -36,6 +44,10 @@ ul {
     margin: 0;
     padding: 0;
 
+}
+
+li {
+    margin-left: 10%;
 }
 
 p, h1, h2, h3, h4 {
@@ -150,6 +162,19 @@ th, td {
          margin-right: 0 !important;
 
      }
+
+     p, h1, h2, h3, h4 {
+        text-align: justify;
+        margin-left: 10% !important; 
+        margin-right: 10% !important;
+    }
+
+    iframe {
+        display: block;
+        border-style:none;
+        margin-left: auto;
+        margin-right: auto;
+    }
 
 
     
