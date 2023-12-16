@@ -7,7 +7,7 @@ layout: default
 
 <p> Dit is een gedeelde blog over kunst en cultuur met artikels van verschillende auteurs met uiteenlopende meningen.  </p>
 
-<p> Auteurs zijn of waren: <p>
+<p> Auteurs zijn: <p>
 <ul class="marginLeft">
 <li>Joachim Bovin </li>
 <li>Jasmien Aerts</li>

@@ -2,7 +2,7 @@
 layout: post
 author: Joachim Bovin
 ---
-Ostinato Records distileerde 15 nummers uit een cassette archief met Somalische muziek en geeft ons met <i> Sweet as Broken Dates </i> een unieke kijk in het swingende nachtleven van Mogadishu uit de jaren 70 en 80. 
+Ostinato Records distilleerde 15 nummers uit een cassett earchief met Somalische muziek en geeft ons met <i> Sweet as Broken Dates </i> een unieke kijk in het swingende nachtleven van Mogadishu uit de jaren 70 en 80. 
 
 <b> Burgeroorlog </b>
 
@@ -10,7 +10,7 @@ Voor het verhaal achter deze verloren cassettes moeten we terug naar het Somali√
 
 <b> Smeltkroes </b>
 
-Opvallend aan deze compilatie is de smeltkroes van verschillende culturen die te horen is in de loop van deze 15 nummers. Zo horen we Amerikaanse funk en soul, Jamaicaanse reggae maar ook Indische en Arabische invloeden. Dit alles wordt gefilterd door een Somalische lens om zo tot een uniek resultaat te komen. Luister bijvoorbeeld naar het dansbare Rag Waa Nacab Iyo Nasteexo dat met de fantastische zang van Aamina Camaari een van de hoogtepunten van deze compilatie is. De invloed van Amerikaanse funk en soul muziek zijn duidelijk te horen op nummers als Kadeed Badanaa Naftaydani en Ninkaan Ogayn terwijl er op Kadeed Badana naftaydani dan weer een reggae invloed te bespeuren is. 
+Opvallend aan deze compilatie is de smeltkroes van verschillende culturen. Zo horen we Amerikaanse funk en soul, Jamaicaanse reggae maar ook Indische en Arabische invloeden. Dit alles wordt gefilterd door een Somalische lens om zo tot een uniek resultaat te komen. Luister bijvoorbeeld naar het dansbare Rag Waa Nacab Iyo Nasteexo dat met de fantastische zang van Aamina Camaari een van de hoogtepunten van deze compilatie is. De invloed van Amerikaanse funk en soul muziek zijn duidelijk te horen op nummers als Kadeed Badanaa Naftaydani en Ninkaan Ogayn terwijl er op Kadeed Badana naftaydani dan weer een reggae invloed te bespeuren is. 
 
 <b> Een nieuw verhaal </b>
 
