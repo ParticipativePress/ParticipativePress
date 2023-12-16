@@ -2,7 +2,7 @@
 layout: post
 author: Joachim Bovin
 ---
-Ostinato Records distilleerde 15 nummers uit een cassett earchief met Somalische muziek en geeft ons met <i> Sweet as Broken Dates </i> een unieke kijk in het swingende nachtleven van Mogadishu uit de jaren 70 en 80. 
+Ostinato Records distilleerde 15 nummers uit een cassettearchief met Somalische muziek en geeft ons met <i> Sweet as Broken Dates </i> een unieke kijk in het swingende nachtleven van Mogadishu uit de jaren 70 en 80. 
 
 <b> Burgeroorlog </b>
 
