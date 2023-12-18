@@ -6,6 +6,14 @@
 
 }
 
+
+.buttons {
+
+margin-left:5%;
+
+}
+
+
 iframe {
     display: block;
     border-style:none;
@@ -163,11 +171,19 @@ th, td {
 
      }
 
-     p, h1, h2, h3, h4 {
+     p {
         text-align: justify;
         margin-left: 10% !important; 
         margin-right: 10% !important;
         font-size: 16px !important;
+    }
+
+
+    h1, h2, h3, h4 {
+        text-align: justify;
+        margin-left: 10% !important; 
+        margin-right: 10% !important;
+        font-size: 20px !important;
     }
 
     a {
@@ -186,5 +202,44 @@ th, td {
         text-align: left;
         border-bottom: 3px solid black;
     }
+
+
+    .buttons {
+
+        margin-left: 10% !important;
+        
+        }
+
+
+        .blogimage {
+            height: 50px;
+            width: 50px;
+            margin-left: auto;
+            margin-right: auto;
+            margin-bottom: 10px;
+        }
+
+
+        tr a {
+            padding: 5px; 
+           
+           }
     
 }
+
+
+
+/* CSS */
+.button-archive {
+  align-items: center;
+  border-radius: 30px;
+  height: 48px;
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+
