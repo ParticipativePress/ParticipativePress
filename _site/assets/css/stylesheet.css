@@ -167,6 +167,11 @@ th, td {
         text-align: justify;
         margin-left: 10% !important; 
         margin-right: 10% !important;
+        font-size: 16px;
+    }
+
+    a {
+        font-size: 16px;
     }
 
     iframe {
@@ -176,6 +181,10 @@ th, td {
         margin-right: auto;
     }
 
-
+    th, td {
+        padding: 0px;
+        text-align: left;
+        border-bottom: 3px solid black;
+    }
     
 }
