@@ -9,8 +9,8 @@ layout: default
 
 <p> Auteurs zijn: <p>
 <ul class="marginLeft">
-<li>Joachim Bovin </li>
-<li>Jasmien Aerts</li>
+<li><p> Joachim Bovin</p> </li>
+<li><p> Jasmien Aerts</p> </li>
 </ul>
 
 

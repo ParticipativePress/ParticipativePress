@@ -47,7 +47,7 @@ ul {
 }
 
 li {
-    margin-left: 10%;
+    margin-left: 0%;
 }
 
 p, h1, h2, h3, h4 {
@@ -167,11 +167,11 @@ th, td {
         text-align: justify;
         margin-left: 10% !important; 
         margin-right: 10% !important;
-        font-size: 16px;
+        font-size: 16px !important;
     }
 
     a {
-        font-size: 16px;
+        font-size: 18px !important;
     }
 
     iframe {
@@ -182,7 +182,7 @@ th, td {
     }
 
     th, td {
-        padding: 0px;
+        padding: 0px !important;
         text-align: left;
         border-bottom: 3px solid black;
     }
