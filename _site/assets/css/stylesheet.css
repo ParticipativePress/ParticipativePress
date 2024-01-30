@@ -60,7 +60,7 @@ li {
 }
 
 p, h1, h2, h3, h4 {
-    text-align: justify;
+    text-align: left;
     margin-left: 5%;
     margin-right: 20%;
     line-height: 1.6;
@@ -174,16 +174,16 @@ th, td {
      }
 
      p {
-        text-align: justify;
-        margin-left: 10% !important; 
-        margin-right: 10% !important;
-        font-size: 16px !important;
+        text-align: left;
+        margin-left: 5% !important; 
+        margin-right: 5% !important;
+        font-size: 17px !important;
     }
 
 
     h1, h2, h3, h4 {
-        text-align: justify;
-        margin-left: 10% !important; 
+        text-align: left; 
+        margin-left: 5% !important; 
         margin-right: 10% !important;
         font-size: 20px !important;
     }
