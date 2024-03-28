@@ -1,0 +1,13 @@
+---
+layout: post
+author: Joachim Bovin
+type: recensie
+---
+
+Past Lives is een poëtisch en prachtig uitgevoerd liefdesverhaal geregisseerd en geschreven door nieuwkomer Celine Song.  Het lijkt alsof deze film  over onbewandelde paden een gevoelige snaar raakt van mijn leeftijdsgenoten: de millennials (geboren tussen 1981 en 1996). Ze krijgen vaak het verwijt last te hebben van keuzestress. Deze film lijkt dan ook gemaakt voor hen. 
+
+In de film volgen we Nora en haar relatie met haar jeugdvriend Hae-sung op drie cruciale punten van hun leven met telkens tien jaar tussen. In het eerste deel zien we de twee als kinderen in Zuid Korea. Nora staat net op het punt te emigreren naar Canada. Ze wandelen samen naar huis, spelen en houden elkaars hand vast. Tien jaar later zien we de ambitieuze Nora in New York waar ze studeert. Ze komt erachter dat Hae-sung naar haar zoekt en ze nemen opnieuw contact op via sociale media. Opnieuw is er een connectie maar het lukt niet om elkaar te ontmoeten. Weer tien jaar later is Nora getrouwd en woont ze in New York met haar man, de schrijver Arthur. Hae-Sung komt, na een relatiebreuk, voor een week op bezoek in New York. 
+
+We kunnen de film interpreteren als een verhaal over immigratie: het leven buiten je geboorteland, ergens tussen twee culturen. De confrontatie met het leven dat Nora heeft achtergelaten wordt gepersonifieerd door Hae-sung. In de brede zin gaat de film over de keuzes die we maken. Een rode draad door de film is het Koreaanse concept in-yun. Het idee hierachter is dat mensen meerdere levens hebben. Tijdens die levens bouwen ze door interacties verschillende lagen van in-yun op met elkaar. Dit kan je interpreteren als het “lot”, iets waar niet aan te ontsnappen is. Zo zullen ze wegens die interacties in de vorige levens uiteindelijke samen eindigen. Dit is het geval voor Nora en Hae-Sung, want hoewel ze in dit leven niet samen zijn, kunnen ze volgens In-Yun wel samen zijn in een volgend leven. Belangrijk om in het achterhoofd te houden is dat dit dan ook door het lot bepaald is. 
+
+Op het einde van de film maakt Nora een keuze voor Arthur en haar huidige leven. Net zoals het concept in-yun heb je niet alles in de hand, sommige dingen worden bepaald door toeval, het enige wat we uiteindelijk kunnen doen is dit aanvaarden want onze keuzes maken ons tot wie we zijn. Een mooie, en ook troostende gedachte voor de millennials en hun onbewandelde paden. 
